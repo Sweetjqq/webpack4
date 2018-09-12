@@ -1,10 +1,10 @@
-# nvue
+# webpack4.0+vue
 一个用`webpack4`打包的`vue` 的项目，参照`vue-cli`的`webpack`配置，一步一步带你实现一个vue的打包的项目，每一个commit对应一个步骤。
 
 
 ### clone project
 
-`git clone git@github.com:naihe138/nvue.git`
+`git clone git@github.com:Sweetjqq/webpack4.git`
 
 ### install
 
