@@ -4,7 +4,7 @@
 
 ### clone project
 
-`git clone git@github.com:naihe138/nvue.git`
+`git clone git@github.com:Sweetjqq/webpack4.git`
 
 ### install
 
